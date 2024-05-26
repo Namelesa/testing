@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/db-course-theme2/",
 
   lang: "en-US",
-  title: "Система управління відкритими даними",
+  title: "Система аналізу медіа-контенту",
   description: "Лабораторні роботи",
 
   theme,

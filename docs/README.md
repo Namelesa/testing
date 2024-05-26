@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Початок
 
-heroText: "Система управління відкритими даними"
+heroText: "Система аналізу медіа-контенту"
 
 tagline: Лабораторні роботи з дисципліни "Організація баз данних"
 
@@ -13,20 +13,21 @@ actions:
     link: ./intro/
     type: primary
 
-footer: "ECL 2.0 Licensed | Copyright © 2024 Zanuda Dmytro |"
+footer: "ECL 2.0 Licensed | Copyright © 2024 Дуднік Артур |"
 
 ---
 
 
 **Виконали:** 
 
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Васильєв Тарас<span padding-left:5em></span> [Telegram](https://t.me/tartaruk)  
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Білик Максим<span padding-left:5em></span> [Telegram](https://t.me/IIIqwertyII)  
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Дуплика Віктор<span padding-left:5em></span> [Telegram](https://t.me/DARK_AGE_1)  
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Пащенко Олександр<span padding-left:5em></span> [Telegram](https://t.me/seatwoom)  
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Шерстюк Максим<span padding-left:5em></span> [Telegram](https://t.me/Maxsooooon)  
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Гришаєв Семен<span padding-left:5em></span> [Telegram](https://t.me/drorislav)  
-*студент 2-го курсу, групи ІО-22*<span padding-right:5em></span> Вовченко Констянтин<span padding-left:5em></span> [Telegram](https://t.me/engdan0) 
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Базилюк Владислав<span padding-left:5em></span> [Telegram](https://t.me/vladbazilyuk)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Дуднік Артур<span padding-left:5em></span> [Telegram](https://t.me/DudnikAm)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Зінченко Андрій<span padding-left:5em></span> [Telegram](https://t.me/zAzoty_nado_lichitsa)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Піндрус Роман<span padding-left:5em></span> [Telegram](https://t.me/PRoman545)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Саєнко Андрій<span padding-left:5em></span> [Telegram](https://t.me/saienkooo)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Салієнко Віталій<span padding-left:5em></span> [Telegram](https://t.me/)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Скрипка Назар<span padding-left:5em></span> [Telegram](https://t.me/)  
+*студент 2-го курсу, групи ІО-26*<span padding-right:5em></span> Черніговський Назар<span padding-left:5em></span> [Telegram](https://t.me/bara424) 
 
 
 **Керівник**
